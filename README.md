@@ -1,6 +1,8 @@
-![logo](MIlad-Codes-Github-Banner.png)
-Hi 👋 My name is Milad Akbari
-=============================
+![logo](https://github.com/milad-codes/milad-codes/blob/master/Milad-Codes-Github-Banner.png)
+
+&nbsp;
+# Hi there 👋 I'm Milad!
+
 
 I'm an enthusiastic software engineer from Afghanistan. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday 💪
 

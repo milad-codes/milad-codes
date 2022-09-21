@@ -1,6 +1,4 @@
 
-
-
 ![logo](https://github.com/milad-codes/milad-codes/blob/master/Milad-Codes-Github-Banner.png)
 
 &nbsp;

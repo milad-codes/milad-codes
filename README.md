@@ -49,24 +49,29 @@ I'm an enthusiastic software engineer at [TMV](https://turkiyemaarif.org/). I en
     <td>
    <a href="https://github.com/milad-codes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-codes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" width="618" alt="Top Languages" /></a>
 
-<!-- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  /> -->
 </td>
  </tr>
 
 </table>
 
+<div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milad-codes&theme=radical" >
+</div>
 
 
+
+
+<div align="center">
+
+&nbsp;
 
 ## 💰 Support Me
 
-<div align="center">
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 &nbsp;
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="180" />
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="180" />
 
 &nbsp;
 

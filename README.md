@@ -20,20 +20,7 @@ I'm an enthusiastic software engineer at [TMV](https://turkiyemaarif.org/). I en
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,prisma,react,electron,redux,webpack,nextjs,vue,tailwind,graphql,redis,mongodb,postgres,mysql,jest,figma,git)](https://skillicons.dev)
 
-## 💰 Support Me
 
-<div align="center">
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
-
-&nbsp;
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="180" />
-
-&nbsp;
-
-<a href="https://www.buymeacoffee.com/milad.codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
-
-</div>
 
 ## 🌐 Socials
 
@@ -69,6 +56,23 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 </table>
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milad-codes&theme=radical" >
+
+
+
+## 💰 Support Me
+
+<div align="center">
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
+
+&nbsp;
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="180" />
+
+&nbsp;
+
+<a href="https://www.buymeacoffee.com/milad.codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>

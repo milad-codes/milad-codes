@@ -27,33 +27,40 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 &nbsp;
 
-<a href="https://www.buymeacoffee.com/milad.codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
-</div>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="180" />
 
+
+&nbsp;
+
+<a href="https://www.buymeacoffee.com/milad.codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
+
+
+</div>
 
 ## 🌐 Socials
 ___
 
 
 <p align="left"> <a href="https://www.github.com/milad-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/miladcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miladcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-&nbsp;
 
 ## 📊 My Github Status
 ___
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
-    <div style="display: inline-block;">
+
+<table border="0">
+ <tr>
+    <td>    <div style="display: inline-block;">
 <a href="http://www.github.com/milad-codes"><img src="https://github-readme-stats.vercel.app/api?username=milad-codes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="milad-codes's GitHub stats" /></a>
 
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-    
-</code></pre>
-    </div>
-<a href="http://www.github.com/milad-codes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=milad-codes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</td>
+    <td>
+  <a href="http://www.github.com/milad-codes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=milad-codes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-</div>
+</td>
+ </tr>
+
+</table>
+
 
 
 

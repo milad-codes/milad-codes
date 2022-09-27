@@ -2,37 +2,21 @@
 ![logo](https://github.com/milad-codes/milad-codes/blob/master/Milad-Codes-Github-Banner.png)
 
 &nbsp;
-# Hi there 👋 I'm Milad!
+# Hi 👋, I'm [Milad](https://www.miladcodes.com)!
 
 
-I'm an enthusiastic software engineer from Afghanistan. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday 💪
-
-* 🌍  I'm based in Kabul, Afghanistan
-* 🖥️  See my portfolio at [miladcodes.com](https://miladcodes.com)
-* ✉️  You can contact me at [miladakbari.dev@gmail.com](mailto:miladakbari.dev@gmail.com)
-* 🚀  I'm currently working on [Finance Tracking System](https://miladcodes/com)
-* 🧠  I'm learning **DevOps**
-* 🤝  I'm open to collaborating on **Keystone.js**
-* ⚡  I love JavaScript frameworks
+I'm an enthusiastic software engineer at [TMV](https://turkiyemaarif.org/). I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday 💪
+* 🚀 &nbsp;I'm currently working on something cool 😉
+* 🧠 &nbsp;I'm learning **DevOps** and **Microservices**
+* 💬 &nbsp;Ask me about anything related to Javascript
+* 👨‍💻 &nbsp;Read more about my projects at [miladcodes.com](https://www.miladcodes.com/)
+* ✉️ &nbsp;How to reach me: [miladakbari.dev@gmail.com](mailto:miladakbari.dev@gmail.com)
+* 🤝 &nbsp;I'm open to collaborating on interesting projects
+* ⚡ &nbsp;Fun fact: I ❤️ automation testing
 
 ### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,prisma,react,electron,redux,webpack,nextjs,vue,tailwind,graphql,redis,mongodb,postgres,mysql,jest,figma,git)](https://skillicons.dev)
 
 
 ### Socials

@@ -15,13 +15,13 @@ I'm an enthusiastic software engineer at [TMV](https://turkiyemaarif.org/). I en
 - ⚡ &nbsp;Fun fact: I ❤️ automation testing
 
 &nbsp;
+
 ## 💻Tech Stack
-___
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,prisma,react,electron,redux,webpack,nextjs,vue,tailwind,graphql,redis,mongodb,postgres,mysql,jest,figma,git)](https://skillicons.dev)
 
-
 ## 💰 Support Me
-___
+
 <div align="center">
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
@@ -29,25 +29,19 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="180" />
 
-
 &nbsp;
 
 <a href="https://www.buymeacoffee.com/milad.codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
 
-
 </div>
 
 ## 🌐 Socials
-___
-
 
 <p align="left"> <a href="https://www.github.com/milad-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/miladcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miladcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ## 📊 My Github Status
-___
 
-
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td>    <div style="display: inline-block;">
 <a href="http://www.github.com/milad-codes"><img src="https://github-readme-stats.vercel.app/api?username=milad-codes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="milad-codes's GitHub stats" /></a>
@@ -61,10 +55,7 @@ ___
 
 </table>
 
-
-
-
-<table border="0">
+<table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td><a href="http://www.github.com/milad-codes"><img src="https://activity-graph.herokuapp.com/graph?username=milad-codes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </td>
@@ -77,20 +68,8 @@ ___
 
 </table>
 
-
-
-
-
-
- 
- 
- 
- 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milad-codes&theme=radical" >
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-

@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm [Milad](https://www.miladcodes.com)!
 
-I'm an enthusiastic software engineer at [TMV](https://turkiyemaarif.org/). I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday 💪
+I'm an enthusiastic javascript full-stack developer. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday 💪
 
 - 🚀 &nbsp;I'm currently working on something cool 😉
 - 🧠 &nbsp;I'm learning **DevOps** and **Microservices**
@@ -12,7 +12,7 @@ I'm an enthusiastic software engineer at [TMV](https://turkiyemaarif.org/). I en
 - 👨‍💻 &nbsp;Read more about my projects at [miladcodes.com](https://www.miladcodes.com/)
 - ✉️ &nbsp;How to reach me: [miladakbari.dev@gmail.com](mailto:miladakbari.dev@gmail.com)
 - 🤝 &nbsp;I'm open to collaborating on interesting projects
-- ⚡ &nbsp;Fun fact: I ❤️ automation testing
+- ⚡ &nbsp;Fun fact: I ❤️ automated testing
 
 &nbsp;
 

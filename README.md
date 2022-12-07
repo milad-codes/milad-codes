@@ -10,7 +10,7 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 - 🧠 &nbsp;I'm learning **DevOps** and **Microservices**
 - 💬 &nbsp;Ask me about anything related to Javascript
 - 👨‍💻 &nbsp;Read more about my projects at [miladcodes.com](https://www.miladcodes.com/)
-- ✉️ &nbsp;How to reach me: [me@miladcodes.com](mailto:miladakbari.dev@gmail.com)
+- ✉️ &nbsp;How to reach me: [contact@miladcodes.com](mailto:contact@miladcodes.com)
 - 🤝 &nbsp;I'm open to collaborating on interesting projects
 - ⚡ &nbsp;Fun fact: I ❤️ automated testing
 

@@ -57,14 +57,14 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 
 </table>
 
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milad-codes&theme=radical" >
-</div>
+</div> -->
 
 
 
 
-<div align="center">
+<!-- <div align="center">
 
 &nbsp;
 
@@ -80,7 +80,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 <a href="https://www.buymeacoffee.com/milad.codes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><br>
 
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>

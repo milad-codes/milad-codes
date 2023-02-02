@@ -1,6 +1,5 @@
 <!-- ![logo](https://github.com/milad-codes/milad-codes/blob/master/github-header-image.png) -->
 
-&nbsp;
 
 # Hi there 👋,
 
@@ -28,7 +27,7 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 
 ## 📊 My Github Status
 
-<table border="0" cellspacing="0" cellpadding="0">
+<!-- <table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td>    <div style="display: inline-block;">
 <a href="http://www.github.com/milad-codes"><img src="https://github-readme-stats.vercel.app/api?username=milad-codes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="milad-codes's GitHub stats" /></a>
@@ -40,16 +39,16 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 </td>
  </tr>
 
-</table>
+</table> -->
 
 <table border="0" cellspacing="0" cellpadding="0">
  <tr>
-    <td>
+    <td style="border: none;">
 
 [![Milad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark)](https://github.com/milad-codes/github-readme-activity-graph)
 
 </td>
-    <td>
+    <td style="border: none;">
    <a href="https://github.com/milad-codes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-codes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" width="618" alt="Top Languages" /></a>
 
 </td>

@@ -1,4 +1,4 @@
-![logo](https://github.com/milad-codes/milad-codes/blob/master/github-header-image.png)
+<!-- ![logo](https://github.com/milad-codes/milad-codes/blob/master/github-header-image.png) -->
 
 &nbsp;
 

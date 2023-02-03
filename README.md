@@ -46,11 +46,7 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark"/>
     </a>
   </div>
-  <div style="display: inline-block; vertical-align: top; width: 29%; height: 108.5px;">
-    <a href="https://github.com/milad-codes">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-codes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-    </a>
-  </div>
+
 </div>
 
 <!-- <table border="0" cellspacing="0" cellpadding="0">

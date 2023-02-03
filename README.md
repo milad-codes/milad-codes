@@ -40,14 +40,14 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 
 </table> -->
 
-<div align="center">
+
   <div>
     <a href="https://github.com/milad-codes/github-readme-activity-graph">
-      <img style="height: 185px; object-fit: contain;" src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark&hide_border=true"/>
+      <img style="height: 200px; object-fit: contain;" src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark&hide_border=true"/>
     </a>
   </div>
 
-</div>
+
 
 <!-- <table border="0" cellspacing="0" cellpadding="0">
  <tr >

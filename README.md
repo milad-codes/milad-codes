@@ -40,9 +40,22 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 
 </table> -->
 
-<table border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+  <div style="display: inline-block; vertical-align: top; width: 59%; height: 120px;">
+    <a href="https://github.com/milad-codes/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark"/>
+    </a>
+  </div>
+  <div style="display: inline-block; vertical-align: top; width: 29%; height: 108.5px;">
+    <a href="https://github.com/milad-codes">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milad-codes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    </a>
+  </div>
+</div>
+
+<!-- <table border="0" cellspacing="0" cellpadding="0">
  <tr >
-    <td style=" border: none !important;>
+    <td style=" border: none !important;">
 
 [![Milad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark)](https://github.com/milad-codes/github-readme-activity-graph)
 
@@ -53,7 +66,7 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 </td>
  </tr>
 
-</table>
+</table> -->
 
 <!-- <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milad-codes&theme=radical" >

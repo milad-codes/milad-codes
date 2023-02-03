@@ -43,7 +43,7 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 <div align="center">
   <div>
     <a href="https://github.com/milad-codes/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&hide_border=true&theme=react-dark"/>
+      <img height="50rem" src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&hide_border=true&theme=react-dark"/>
     </a>
   </div>
 

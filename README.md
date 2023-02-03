@@ -41,7 +41,7 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 </table> -->
 
 <div align="center">
-  <div style="display: inline-block; vertical-align: top; width: 59%; height: 120px;">
+  <div>
     <a href="https://github.com/milad-codes/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark"/>
     </a>

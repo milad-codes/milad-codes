@@ -1,6 +1,5 @@
 <!-- ![logo](https://github.com/milad-codes/milad-codes/blob/master/github-header-image.png) -->
 
-
 # Hi there 👋,
 
 I'm an enthusiastic full-stack developer. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday 💪
@@ -13,7 +12,7 @@ I'm an enthusiastic full-stack developer. I enjoy writing full-stack application
 - 🤝 &nbsp;I'm open to collaborating on interesting projects
 - ⚡ &nbsp;Fun fact: I ❤️ automated testing
 
-&nbsp;
+
 
 ## 💻Tech Stack
 

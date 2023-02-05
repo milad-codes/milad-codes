@@ -2,11 +2,10 @@
 
 # Hi there 👋,
 
-I am an enthusiastic full-stack developer skilled in building scalable and robust applications using JavaScript, React, and Node.js. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday.
+I am an enthusiastic full-stack developer skilled in building scalable and robust applications using JavaScript, React, and Node.js. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow every day.
 
 - 🚀 &nbsp;I'm passionate about learning new web technologies
 - 🧠 &nbsp;I'm learning **DevOps** and **Microservices**
-- 💬 &nbsp;Ask me about anything related to Javascript
 - 👨‍💻 &nbsp;Read more about my projects at [miladcodes.com](https://www.miladcodes.com/)
 - ✉️ &nbsp;How to reach me: [contact@miladcodes.com](mailto:contact@miladcodes.com)
 - 🤝 &nbsp;I'm open to collaborating on interesting projects

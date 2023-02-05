@@ -2,7 +2,7 @@
 
 # Hi there 👋,
 
-I'm an enthusiastic full-stack developer. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday 💪
+I am an enthusiastic full-stack developer skilled in building scalable and robust applications using JavaScript, React, and Node.js. I enjoy writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow everyday
 
 - 🚀 &nbsp;I'm currently working on something cool 😉
 - 🧠 &nbsp;I'm learning **DevOps** and **Microservices**

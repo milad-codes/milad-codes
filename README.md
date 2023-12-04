@@ -2,7 +2,7 @@
 
 # Hi there 👋,
 
-I am an enthusiastic full-stack developer. I am passionate about writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow every day.
+I am an enthusiastic full-stack developer based in Munich, Germany. I am passionate about writing full-stack applications using TDD, contributing to open-source projects and leading projects using scrum methodology. Being a self-driven, career-minded individual, I strive to grow every day.
 
 - 🚀 &nbsp;I'm passionate about learning new web technologies
 - 🧠 &nbsp;I'm learning **DevOps** and **Microservices**
@@ -10,6 +10,11 @@ I am an enthusiastic full-stack developer. I am passionate about writing full-st
 - ✉️ &nbsp;How to reach me: [contact@miladcodes.com](mailto:contact@miladcodes.com)
 - 🤝 &nbsp;I'm open to collaborating on interesting projects
 - ⚡ &nbsp;Fun fact: I ❤️ automated testing
+
+
+<span style="font-size:18px; font-weight:600;">Let's build something amazing together! 🚀</span>
+
+ 
 
 
 
@@ -23,9 +28,9 @@ I am an enthusiastic full-stack developer. I am passionate about writing full-st
 
 <p align="left"> <a href="https://www.github.com/milad-codes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/miladcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miladcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-## 📊 My Github Status
+<!-- ## 📊 My Github Status
 
-<!-- <table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0">
  <tr>
     <td>    <div style="display: inline-block;">
 <a href="http://www.github.com/milad-codes"><img src="https://github-readme-stats.vercel.app/api?username=milad-codes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="milad-codes's GitHub stats" /></a>
@@ -40,11 +45,11 @@ I am an enthusiastic full-stack developer. I am passionate about writing full-st
 </table> -->
 
 
-  <div>
+  <!-- <div>
     <a href="https://github.com/milad-codes/github-readme-activity-graph">
       <img style="height: 220px; object-fit: contain;" src="https://github-readme-activity-graph.cyclic.app/graph?username=milad-codes&theme=react-dark&hide_border=true"/>
     </a>
-  </div>
+  </div> -->
 
 
 
@@ -88,6 +93,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br>
 
 </div> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+</p> -->

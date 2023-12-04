@@ -12,7 +12,7 @@ I am an enthusiastic full-stack developer based in Munich, Germany. I am passion
 - ⚡ &nbsp;Fun fact: I ❤️ automated testing
 
 
-<span style="font-size:18px; font-weight:600;">Let's build something amazing together! 🚀</span>
+**Let's build something amazing together!** 🚀
 
  
 

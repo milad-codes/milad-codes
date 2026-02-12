@@ -1,29 +1,26 @@
-<h1 align="center">Milad Akbari</h1>
+<h1 align="center">Servus</h1>
 
 <p align="center">
   Full Stack AI Engineer · Munich, Germany 🇩🇪
   <br />
-  Building AI-powered products at <a href="https://www.aampere.com">Aampere⚡</a> — Europe's leading EV auction platform
-  <br /><br />
-  <a href="https://miladcodes.com">miladcodes.com</a> ·
-  <a href="https://linkedin.com/in/miladcodes">LinkedIn</a> ·
-  <a href="mailto:contact@miladcodes.com">contact@miladcodes.com</a>
+  Building AI-powered products @<a href="https://www.aampere.com">Aampere⚡</a> — Europe's leading EV auction platform
 </p>
 
 ---
 
-## About Me
+## Bio
 
-I'm a full stack developer who never picked a side — and I'm fine with that.
+Full-stack AI engineer: part TypeScript, part Python, building systems that work and deliver real impact. I turn LangChain and LangGraph into production-ready AI workflows, bridging backend, frontend, and AI seamlessly.
 
-I'm equally at home writing a well-typed **NestJS** service as I am building a **Next.js** UI that's too polished for its own good. Lately I've been spending most of my time connecting those two worlds with **LangChain** and **LangGraph**, building AI workflows that actually do something useful.
 
-5+ years of TypeScript. Recently deep in Python for LLM pipelines. Obsessed with clean architecture, automated testing, and shipping things that work.
+I believe in shipping fast, learning continuously, and improving 1% every day. Clean architecture, automated testing, and building features that matter aren’t just habits—they’re a mindset.
 
-- 🤖 Currently building AI-powered features with LangChain & LangGraph
+When I’m in Next.js, pretending the Vercel AI SDK doesn’t exist is not an option — it somehow ends up in the stack.
+
 - 🏎️ Working on Europe's EV auction platform at Aampere
-- 🧪 Testing nerd — E2E with Playwright & Playwright MCP, unit & integration with Vitest, React Testing Library, and Jest on NestJS
-- 🌍 Based in Munich, open to remote collaboration worldwide
+- 🤖 Building AI-powered workflows with LangChain & LangGraph
+- 🧪 E2E with Playwright & Playwright MCP, unit & integration with Vitest, React Testing Library, and Jest on NestJS
+- 💻 Ctrl+C, Ctrl+V
 - 📬 contact@miladcodes.com
 
 ---
@@ -61,7 +58,6 @@ I'm equally at home writing a well-typed **NestJS** service as I am building a *
 ### Data & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -74,7 +70,3 @@ I'm equally at home writing a well-typed **NestJS** service as I am building a *
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logoColor=white)
 
 ---
-
-<a href="https://miladcodes.com">🌐 miladcodes.com</a> ·
-<a href="https://linkedin.com/in/miladcodes">💼 LinkedIn</a> ·
-<a href="mailto:contact@miladcodes.com">✉️ Email</a>

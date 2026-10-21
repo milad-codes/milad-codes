@@ -1,4 +1,4 @@
-**Full Stack AI Engineer | Backend Focus | TypeScript, Python, NestJS & Next.js | LLM Applications**
+**Full Stack AI Engineer | Backend Focus | TypeScript, Python, NestJS & Next.js | LLMs, RAG & AI Agents**
 
 I'm Milad Akbari, based in Munich. At [Aampere](https://www.aampere.com), I build web applications and AI workflows for the European EV market, with a focus on backend systems, APIs, and databases.
 

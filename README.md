@@ -1,8 +1,12 @@
-**Full Stack AI Engineer | Backend Focus | TypeScript, Python, NestJS & Next.js | LLMs, RAG & AI Agents**
+# Milad Akbari
 
-I'm Milad Akbari, based in Munich. At [Aampere](https://www.aampere.com), I build web applications and AI workflows for the European EV market, with a focus on backend systems, APIs, and databases.
+**Full Stack AI Engineer**
 
-I work with TypeScript, Python, NestJS, Next.js, PostgreSQL, and AWS, and use LangChain, LangGraph, and the Vercel AI SDK for LLM applications. I care about readable code, automated tests, and applications that are straightforward to deploy and monitor.
+I'm based in Munich. At [Aampere](https://www.aampere.com), I build web applications and AI workflows for the European EV market.
+
+## Current technical focus
+
+I work across backend services, web applications and AI-enabled workflows. I care about readable code, automated tests, and applications that are straightforward to deploy and monitor.
 
 ## Selected code
 
@@ -13,4 +17,10 @@ I work with TypeScript, Python, NestJS, Next.js, PostgreSQL, and AWS, and use La
 
 The API repositories are earlier projects from 2022. My current professional experience is documented on LinkedIn.
 
-[Portfolio](https://miladcodes.com) · [LinkedIn](https://www.linkedin.com/in/miladcodes)
+## Core technologies
+
+- Software: TypeScript, Python, NestJS, Next.js, React and PostgreSQL.
+- AI applications: LLMs, RAG and AI agents, with LangChain, LangGraph and the Vercel AI SDK.
+- Infrastructure: Docker and AWS.
+
+[Portfolio](https://www.miladcodes.com) · [LinkedIn](https://www.linkedin.com/in/miladcodes)

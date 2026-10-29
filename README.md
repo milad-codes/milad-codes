@@ -2,7 +2,7 @@
 
 **Full Stack AI Engineer in Munich**
 
-I'm a Full Stack Developer at [Aampere](https://www.aampere.com) <sup><img src="./assets/aampere-lightning.png" width="20" height="20" align="middle" alt="Aampere"></sup>, building its Dealer Platform for the European EV market: NestJS services, PostgreSQL data models, Next.js features and AI workflows with LangChain, LangGraph and MCP.
+I'm a Full Stack Developer at [Aampere](https://www.aampere.com)&#8201;<sup><img src="./assets/aampere-lightning.png" width="20" height="20" align="middle" alt="Aampere"></sup>, building its Dealer Platform for the European EV market: NestJS services, PostgreSQL data models, Next.js features and AI workflows with LangChain, LangGraph and MCP.
 
 Before Aampere, I built a Next.js e-commerce application and a WhatsApp support assistant as a contract developer for AMO Bazar (AMO Travel), and education and administration software at the Turkish Maarif Foundation in Istanbul.
 

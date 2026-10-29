@@ -24,6 +24,6 @@ I care about readable code, automated tests and applications that are straightfo
 
 Built through issues and pull requests with automated CI checks. My older public repositories are learning projects from 2022.
 
-**About my contribution calendar:** the activity from 2017 to 2021, and part of it in later years, comes from [retrospective-programming-lab](https://github.com/milad-codes/retrospective-programming-lab). It's a practice collection created in 2026 with AI assistance, and its commit dates are simulated. It is not a record of work in those years.
+**About my contribution calendar:** all activity from 2017 to 2020, nearly all of 2021 and part of each later year comes from [retrospective-programming-lab](https://github.com/milad-codes/retrospective-programming-lab), a practice collection created in 2026 with AI assistance. Its commit author dates are simulated, so that activity is not a record of work in those years.
 
 [Portfolio](https://www.miladcodes.com) · [LinkedIn](https://www.linkedin.com/in/miladcodes/)
